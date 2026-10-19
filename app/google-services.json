@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "472206698748",
+    "project_id": "milanathequeen-db388",
+    "storage_bucket": "milanathequeen-db388.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472206698748:android:f839e467fb181e0c6ccf79",
+        "android_client_info": {
+          "package_name": "com.example.milana_wow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxdbgoS9uOfrhuqwOURqwK_fe4K5SFxQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472206698748:android:6ba40652dd9b4c746ccf79",
+        "android_client_info": {
+          "package_name": "com.example.milananew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxdbgoS9uOfrhuqwOURqwK_fe4K5SFxQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
